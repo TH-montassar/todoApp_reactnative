@@ -20,9 +20,10 @@ const styles = StyleSheet.create({
   },
   title: {
       fontSize:30,
-      fontFamily:'cursive',
+      fontFamily:'serif',
       textAlign:'center',
       color:'#fff',
+      fontWeight:'bold',
       
      
 
